@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+    <metadata>
+        <id>ID</id>
+        <version>VERSION</version>
+        <description>This component is a part of My New App</description>
+        <authors>Jack</authors>
+    </metadata>
+</package>
