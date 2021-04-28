@@ -6,12 +6,7 @@ def call(Closure body) {
         body()
     }
     else {
-                
- println("random text");
-                body()
- 
-                      
-            
-        
+        println("random text");
+            body()
     }
 }
